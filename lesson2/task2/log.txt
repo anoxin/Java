@@ -1,0 +1,12 @@
+нояб. 28, 2022 7:17:21 PM com.example.App main
+INFO: Начало программы
+нояб. 28, 2022 7:17:22 PM com.example.App main
+INFO: 5 поменяли местами с 3
+нояб. 28, 2022 7:17:22 PM com.example.App main
+INFO: 9 поменяли местами с 4
+нояб. 28, 2022 7:17:22 PM com.example.App main
+INFO: 9 поменяли местами с 5
+нояб. 28, 2022 7:17:22 PM com.example.App main
+INFO: 5 поменяли местами с 4
+нояб. 28, 2022 7:17:22 PM com.example.App main
+INFO: Конец программы
